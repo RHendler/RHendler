@@ -1,4 +1,4 @@
-- 🌱 PhD student for Ecology and Nature conservation. 
+- 🌱 Doctoral researcher for Ecology and Nature conservation. 
 
 - 📫 How to reach me: send me a message via Linkedin - https://www.linkedin.com/in/roi-hendler-13976057/
 
