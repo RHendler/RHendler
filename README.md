@@ -1,6 +1,6 @@
 - 👋 Hi! I’m @RHendler
 - 👀 I’m interested in the intersection between data science and environment. 
-- 🌱 I’m currently looking for new challanges and collaborations.
+- 🌱 PhD student for Ecology and Nature conservation
 - 📫 How to reach me: send me a message via Linkedin - https://www.linkedin.com/in/roi-hendler-13976057/
 
 <!---
