@@ -1,6 +1,6 @@
 - 🌱 Doctoral researcher for Ecology and Nature conservation. 
 
-- 📫 How to reach me: send me a message via Linkedin - https://www.linkedin.com/in/roi-hendler-13976057/
+- 📫 How to reach me: Linkedin - https://www.linkedin.com/in/roi-hendler-13976057/
 
 <!---
 RHendler/RHendler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
