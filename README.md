@@ -1,4 +1,4 @@
-- 🌱 Doctoral researcher for Ecology and Nature conservation. 
+- 🌱 Data Science <> Ecology and Nature conservation. 
 
 <!---
 RHendler/RHendler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
